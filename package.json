@@ -1,0 +1,13 @@
+{
+  "name": "netscape-to-json",
+  "version": "1.0.0",
+  "description": "Convert Netscape cookies.txt to JSON (Cookie-Editor / antidetect browser format) and back. Zero dependencies.",
+  "main": "index.js",
+  "bin": { "netscape-to-json": "index.js" },
+  "scripts": { "test": "node test.js" },
+  "keywords": ["cookies", "netscape", "cookies.txt", "json", "converter", "cookie-editor", "antidetect"],
+  "homepage": "https://stockrush.org/en/tools/netscape-to-json",
+  "repository": { "type": "git", "url": "https://github.com/stockrush-org/netscape-to-json.git" },
+  "author": "StockRush (https://stockrush.org)",
+  "license": "MIT"
+}
